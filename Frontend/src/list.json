@@ -1,0 +1,104 @@
+{
+    "data" : 
+    
+[
+    {
+        "id": 1,
+        "name": "Desk",
+        "title": "MG Road",
+        "price": 350,
+        "category": "Furniture",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMagInSPuRw9IxdGvJl637oVd2aoluz63ETbo0bFdfWfhVOYzWyKo-ZhOj0jdR4916t0&usqp=CAU"
+    },
+
+    {
+        "id": 2,
+        "name": "Room",
+        "title": "Janakpuri 2BHK",
+        "price": 6000000,
+        "category": "Apartment",
+        "image": "https://images.indianexpress.com/2015/11/chandigarh-housing-759.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Computer",
+        "title": "Lorem ipsum dolar sit",
+        "price": 50000,
+        "category": "Electronics",
+        "image": "https://img.freepik.com/free-vector/office-wallpaper-video-conferencing_23-2148631816.jpg?w=996&t=st=1719912218~exp=1719912818~hmac=2888f5398dd8c4ad34d3eb5e83d119780495f4b772cba93fd783b75fe4e49282"
+    },
+
+    {
+        "id": 4,
+        "name": "Office Chair",
+        "title": "Ishita Bindal ",
+        "price": 500,
+        "category": "Furniture",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIS8fZ9SolbKyJh50j6mMY0Owo1wnMa8no4w&s"
+    },
+
+    {
+        "id": 5,
+        "name": "Room",
+        "title": "Okhla 3BHK",
+        "price": 15000000,
+        "category": "Apartment",
+        "image": "https://images.indianexpress.com/2016/11/huda-1200.jpg?w=389"
+    },
+
+    {
+        "id": 6,
+        "name": "Chair",
+        "title": "Metro Bhawan GM office",
+        "price": 500,
+        "category": "Furniture",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxWo186HbOyDqI1FDbbOJH0ZiyaB8j1vJKw&s"
+    },
+
+    {
+        "id": 7,
+        "name": "Sofa",
+        "title": "Metro Bhawan VIP Launge",
+        "price": 5000,
+        "category": "Furniture",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUP4BvxZPatN5adFOI2ap9Ng2Z2Uk-DbA4pg&s"
+    },
+
+    {
+        "id": 8,
+        "name": "Laptop",
+        "title": "Lorem ipsum dolar sit",
+        "price": 25000,
+        "category": "Electronics",
+        "image": "https://img.freepik.com/free-vector/office-wallpaper-video-conferencing_23-2148631816.jpg?w=996&t=st=1719912218~exp=1719912818~hmac=2888f5398dd8c4ad34d3eb5e83d119780495f4b772cba93fd783b75fe4e49282"
+    },
+
+    {
+        "id": 9,
+        "name": "Table",
+        "title": "Rajiv Chowk",
+        "price": 500,
+        "category": "furniture",
+        "image": "https://teja8.kuikr.com/i6/20240724/Office-table-VB201705171774173-ak_LWBP1537437962-1721821311.jpeg"
+    },
+
+    {
+        "id": 10,
+        "name": "Sofa",
+        "title": "Mayur Vihar Phase-1 ",
+        "price": 500,
+        "category": "furniture",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/12/366015300/VG/DZ/EN/75348347/366797608-7008549702529953-190131544381753619-n-500x500.jpg"
+    },
+
+    {
+        "id": 11,
+        "name": "Table",
+        "title": "Lorem ipsum dolar sit",
+        "price": 500,
+        "category": "furniture",
+        "image": "https://img.freepik.com/free-vector/office-wallpaper-video-conferencing_23-2148631816.jpg?w=996&t=st=1719912218~exp=1719912818~hmac=2888f5398dd8c4ad34d3eb5e83d119780495f4b772cba93fd783b75fe4e49282"
+    }
+  ]
+}
